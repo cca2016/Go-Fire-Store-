@@ -1,4 +1,4 @@
-# distributed-fileserver
+# Distributed-Go-Fire_Store
 
 基于golang实现的一种分布式云存储服务
 
